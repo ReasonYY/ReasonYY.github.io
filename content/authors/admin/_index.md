@@ -131,9 +131,9 @@ skills:
         description: 'Text classification. Clustering. PCA.'
         percent: 100
         icon: cube-transparent
-      - name: Web Development
+      - name: Web Development, Scraping
         icon: globe-alt
-        description: 'Flask. Jinja.'
+        description: 'Flask. Jinja. Beautiful Soup. Selenium'
 
 languages:
   - name: English
