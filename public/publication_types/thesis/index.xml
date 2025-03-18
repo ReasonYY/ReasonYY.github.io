@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thesis | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/publication_types/thesis/</link>
+      <atom:link href="http://localhost:1313/publication_types/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thesis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_1b26b1390e2ffc56.png</url>
+      <title>Thesis</title>
+      <link>http://localhost:1313/publication_types/thesis/</link>
+    </image>
+    
+    <item>
+      <title>Hidden in Plain Sight: How Catchphrases Send Political Information that Averts the Public Eye</title>
+      <link>http://localhost:1313/inprogress/dissertation/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/inprogress/dissertation/</guid>
+      <description>&lt;!-- 
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+ --&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In an age when Communist ideology has largely retreated from the daily lives of ordinary people, the bulk of the CCP’s public communication is still heavily coated in ideological jargons. My dissertation argues that these jargons—which I call “catchphrases”—form a system of public intra-elite communication that is inaccessible to the general public, who lack the necessary skills to decipher the political messages embedded in them. Such a system of public communication through catchphrases helps increase the transparency necessary for elite power-sharing in a closed authoritarian regime. Catchphrases signify ideological and policy positions that cannot be easily revealed through literal interpretation. In particular, significant changes in ideological and policy positions are often signaled by extremely minute and seemingly trivial changes in the wording of catchphrases. In this dissertation, I identify a comprehensive list of 25,776 catchphrases from a corpus containing 2.5 million ideological texts from 1921 to 2019, using an automated method I developed based on strings matching. Going beyond a few legacy-defining catchphrases, this list shows how catchphrases form the “staples” of daily CCP elite communications, offering a “menu of options” representing varying ideological and policy positions that elites can use to reveal their differences in public without appearing divided to the general public. Next, using word embeddings, I measure how seemingly trivial changes in the wording of five pairs of catchphrases shift their ideological and policy positions along three predefined scales: a state-market scale that reflects positions on the party-state’s role in the economy, a concentration-collective scale that pertains to positions on the power concentration within the party, and an authoritarian-democratic scale that reflects positions on openness to democratic values and social diversity. Finally, I use survey evidence to show how these minor modifications in wording are noticed by their intended audience, i.e., the political elite, rather than the general public. Moreover, such sensitivity to catchphrases cannot simply be acquired by the general public through training. This allows elites to communicate sensitive political information in public to selective audience and to ensure the controlled release of ongoing and unresolved elite conflicts to wider circles of political power.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
