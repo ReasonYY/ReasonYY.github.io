@@ -20,8 +20,8 @@ sections:
         url: uploads/Yuan_CV.pdf
     design:
       css_class: light
-      background:
-        color: white
+      # background:
+      #   color: white
       spacing:
         padding: ['20px', '0', '20px', '0']
         # image:
