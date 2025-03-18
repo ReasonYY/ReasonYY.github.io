@@ -177,7 +177,7 @@ awards:
 
 ## Welcome!
 
-I am a researcher specialized in propaganda and political communication, with a primary focus on China. I received my Ph.D. in Political Science from the University of California, San Diego in 2024.
+I am a researcher specialized in propaganda and political communication, with a primary focus on China. I received my Ph.D. in Political Science from the University of California, San Diego (UCSD) in 2024.
 
 I study the formal and linguistic aspects of propaganda, examining and empirically tracing how regimes use institutional mechanisms--often with deep historical roots--to replicate their messages across media platforms in contemporary China—including commercial newspapers, the internet, and even large language models (LLMs). My [recent article](publication/scripted_pnas) (co-authored with Hannah Waight, Margaret E. (Molly) Roberts, and Brandon Stewart) in the Proceedings of the National Academy of Sciences applies a text reuse approach to detect what we call “scripted propaganda,” measuring the percentage of articles copied verbatim across more than 700 publications. Another [ongoing collaborative project](inprogress/llm) explores how scripted propaganda may influence LLM outputs.
 
