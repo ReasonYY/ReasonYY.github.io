@@ -1,8 +1,8 @@
 ---
 title: "The decade-long growth of government-authored news media in China under Xi Jinping"
 authors:
-- Hannah Waight
-- admin
+- Hannah Waight*
+- Yin Yuan*
 - Margaret E. Roberts
 - Brandon M. Stewart
 # author_notes:

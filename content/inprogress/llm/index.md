@@ -7,7 +7,7 @@ title: 'Propaganda is already influencing large language models: evidence from t
 authors:
   - Hannah Waight*
   - Eddie Yang*
-  - admin
+  - Yin Yuan
   - Solomon Messing
   - Margaret E. Roberts
   - Brandon M. Stewart
