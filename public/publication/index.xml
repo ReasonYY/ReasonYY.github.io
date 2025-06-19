@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Yin Yuan</title>
-    <link>http://localhost:1313/publication/</link>
-      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:35629/publication/</link>
+      <atom:link href="http://localhost:35629/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_20d10c8a8007b685.png</url>
+      <url>http://localhost:35629/media/icon_hu_20d10c8a8007b685.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/publication/</link>
+      <link>http://localhost:35629/publication/</link>
     </image>
     
     <item>
       <title>The decade-long growth of government-authored news media in China under Xi Jinping</title>
-      <link>http://localhost:1313/publication/scripted_pnas/</link>
+      <link>http://localhost:35629/publication/scripted_pnas/</link>
       <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/scripted_pnas/</guid>
+      <guid>http://localhost:35629/publication/scripted_pnas/</guid>
       <description>&lt;!-- 
 
 
