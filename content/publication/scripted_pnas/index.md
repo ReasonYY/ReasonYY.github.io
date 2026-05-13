@@ -26,7 +26,7 @@ publication_short: ""
 # abstract: 
 
 # Summary. An optional shortened abstract.
-summary: State propaganda campaigns are influential but difficult to detect by design. We develop a method for identifying government-authored propaganda by linking leaked propaganda directives to the behavior of millions of newspaper articles published over the last decade in China. We find that propaganda is quite common—even in commercial newspapers—and has become even more prevalent and homogeneous under Xi Jinping. Using the case study of domestic coverage of COVID-19, we show how the government used propaganda to constrain reporting on the outbreak before the Wuhan lockdown.
+# summary: State propaganda campaigns are influential but difficult to detect by design. We develop a method for identifying government-authored propaganda by linking leaked propaganda directives to the behavior of millions of newspaper articles published over the last decade in China. We find that propaganda is quite common—even in commercial newspapers—and has become even more prevalent and homogeneous under Xi Jinping. Using the case study of domestic coverage of COVID-19, we show how the government used propaganda to constrain reporting on the outbreak before the Wuhan lockdown.
 
 # tags:
 # - Source Themes
@@ -46,10 +46,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

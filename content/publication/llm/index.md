@@ -18,19 +18,19 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2025-03-01T00:00:00Z'
+date: '2026-05-13T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-03-16T00:00:00Z'
+publishDate: '2026-05-13T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['work in progress']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "Work in Progress"
+publication: "Nature"
 # publication_short: In *ICW*
 
 abstract: ""
@@ -42,21 +42,20 @@ summary: ""
   # - Large Language Models
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+links:
+- name: "DOI"
+  url: "https://doi.org/10.1038/s41586-026-10506-7"
+- name: "Paper Website"
+  url: "https://state-media-influence-llm.github.io/"
+url_pdf: 'https://rdcu.be/fiyrF'
+url_code: ' https://doi.org/10.7910/DVN/NECR2K'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
