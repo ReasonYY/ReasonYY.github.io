@@ -135,7 +135,7 @@ skills:
         icon: cube-transparent
       - name: Web Development, Scraping
         icon: globe-alt
-        description: 'Flask. Jinja. Beautiful Soup. Selenium'
+        description: 'Flask. FastAPI. Gradio. Beautiful Soup. Selenium'
 
 languages:
   - name: English
