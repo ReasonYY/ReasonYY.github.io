@@ -1,5 +1,5 @@
 ---
-title: 'Propaganda is already influencing large language models: evidence from training data, audits, and real-world usage'
+title: 'State media control influences large language models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
