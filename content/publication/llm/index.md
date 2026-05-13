@@ -55,7 +55,7 @@ links:
 - name: "Paper Website"
   url: "https://state-media-influence-llm.github.io/"
 url_pdf: 'https://rdcu.be/fiyrF'
-url_code: ' https://doi.org/10.7910/DVN/NECR2K'
+url_code: 'https://doi.org/10.7910/DVN/NECR2K'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
